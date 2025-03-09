@@ -1,0 +1,9 @@
+pyproject.toml
+setup.cfg
+src/botionplotlib/__init__.py
+src/botionplotlib/core.py
+src/botionplotlib.egg-info/PKG-INFO
+src/botionplotlib.egg-info/SOURCES.txt
+src/botionplotlib.egg-info/dependency_links.txt
+src/botionplotlib.egg-info/top_level.txt
+tests/test_botionplotlib.py
